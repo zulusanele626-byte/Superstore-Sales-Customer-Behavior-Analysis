@@ -13,8 +13,7 @@ To segment customers and understand their contribution to total sales
 To transform raw transactional data into actionable business insights
 
 ## Dataset Used:
-
-
+<a href="https://github.com/zulusanele626-byte/Superstore-Sales-Customer-Behavior-Analysis/blob/main/superstore_final_dataset%20(1).xlsx">dataset</a>
 ## KPI Questions
 What is the total sales and average order value by category?
 
